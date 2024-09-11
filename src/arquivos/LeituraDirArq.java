@@ -20,7 +20,7 @@ public class LeituraDirArq {
                 }
             }
         } else {
-            System.out.println("Arquivo nao existe");
+            System.out.println("Arquivo ou diretorio nao existe");
         }
         sc.close();
     }
